@@ -27,7 +27,7 @@ obstacle detection and path planning in Gazebo simulation.
 
 > *Goal:* More stable, collision-free flight in dense environments.  
 
-🔗 Repo: _(will add separate repo link here later)_  
+🔗 Repo: https://github.com/AhmetTanik/autonomous-drone-navigation
 
 ---
 
@@ -37,7 +37,7 @@ university club event planning (event creation, registration, reminder emails).
 
 > *Impact:* Helped reduce manual organisation overhead.  
 
-🔗 Repo: https://github.com/AhmetTanik/technical-projects  
+🔗 Repo: https://github.com/AhmetTanik/event-management-web-app
 
 ---
 
@@ -48,16 +48,43 @@ hashtags and content type.
 
 > *Impact:* Provided data-driven recommendations to improve average views.  
 
-🔗 Repo: https://github.com/AhmetTanik/technical-projects  
+🔗 Repo: https://github.com/AhmetTanik/social-media-data-analysis 
 
 ---
+4️⃣ Internship Evaluation & Career Readiness – Thesis Project (2025)
+
+A mixed-methods research study combining quantitative survey data and
+qualitative interview analysis to understand how internship experiences
+affect students’ perceived career readiness.
+
+Includes:
+
+Regression modeling
+
+Feature engineering
+
+Thematic qualitative coding
+
+Data visualization & insights
+
+🔗 Repo: https://github.com/AhmetTanik/ahmet-tanik-thesis-project
+
+5️⃣ ProjectAhmet – School Projects Collection
+
+A collection of school and coursework projects that demonstrate foundational
+programming skills, problem solving, and progression over time.
+
+Includes mini-assignments, experiments, and early-stage learning projects.
+
+🔗 Repo: https://github.com/AhmetTanik/ProjectAhmet
 
 ## 📚 Interests
 
-- Autonomous drones & robotics  
-- Web development & product design  
-- Data-driven content & growth  
-- Entrepreneurship and student communities  
+-Autonomous drones & robotics
+-Web development & product engineering
+-Machine learning & data analysis
+-Creator economy & analytical content strategy
+-Startups, tech communities, and student entrepreneurship
 
 ---
 
